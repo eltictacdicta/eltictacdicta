@@ -1,4 +1,7 @@
 ### Hi there 👋
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eltictacdicta&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eltictacdicta&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=eltictacdicta&theme=default)
 
 <!--
 **eltictacdicta/eltictacdicta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
